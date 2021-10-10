@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include<iostream>
 using namespace std;
+//change 2
 Array::Array(int size)
 {
 	if(size<0)
