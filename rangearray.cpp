@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include "RangeArray.h"
-
+//change 3
 RangeArray::RangeArray(int i,int j):Array(j-i+1)
 {
 	low = i;
