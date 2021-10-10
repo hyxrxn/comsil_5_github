@@ -2,7 +2,7 @@
 #include "RangeArray.h"
 #include <iostream>
 using namespace std;
-
+//change 1
 int main(void)
 {
 	int i,x,y;
