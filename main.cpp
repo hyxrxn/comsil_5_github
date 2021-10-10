@@ -3,6 +3,7 @@
 #include <iostream>
 using namespace std;
 
+//¼öÁ¤1 
 int main(void)
 {
 	int i,x,y;
